@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cronometro
+comment0.text=\r\n\ A\ classe\ cron\u00F4metro\ atua\ como\ um\ contador\ de\ tempo\ baseado\r\n\ no\ n\u00FAmero\ informado\ pelo\ usu\u00E1rio,\ tamb\u00E9m\ utilizada\ da\ associa\u00E7\u00E3o\ com\ a\ classe\ Teclado\ para\r\n\ ler\ o\ tempo\ informado\ pelo\ usu\u00E1rio.\r\n\ \r\n\ @author\ (P\u00E2mela\ Gabrielle\ Silveira)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=t1\ t2\ tempo
+comment1.target=Cronometro(int,\ int,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Cronometro\r\n
+numComments=2
